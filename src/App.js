@@ -17,6 +17,7 @@ function App() {
             <About></About>
 
           </Route>
+
           <Route path="/contact">
             <Contact></Contact>
 
@@ -24,6 +25,8 @@ function App() {
           <Route path="/home">
             <Home></Home>
           </Route>
+
+
           <Route path="/courses">
             <Courses></Courses>
           </Route>
@@ -31,12 +34,16 @@ function App() {
             <Teachers></Teachers>
 
           </Route>
+          <Route path="/">
+            <Home></Home>
+
+          </Route>
 
         </Switch>
 
       </BrowserRouter>
 
-    </div>
+    </div >
   );
 }
 
