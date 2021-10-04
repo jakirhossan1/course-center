@@ -1,0 +1,25 @@
+
+.home-style{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-column-gap: 30px;
+    margin: 30px;
+    
+    
+}
+.home-border{
+    border: 5px solid rgb(250, 134, 57);
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(199, 250, 199);
+}
+img{
+
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin: 20px;
+}
+.home{
+    background-color:rgba(244, 247, 246, 0.959);
+}
