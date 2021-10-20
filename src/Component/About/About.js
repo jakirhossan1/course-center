@@ -4,29 +4,28 @@ import './About.css'
 const About = () => {
     return (
         <div>
-            <h1 className="headline">Welcome to our web develop coching center !</h1>
+            <h1 className="headline">Welcome to Care Madical Center</h1>
 
             <h2>
                 About Us :
             </h2>
             <div className="about-style">
-                <p>WDI (Web Development Institute) is registered as Training Institute as well as is located in
-                    Delhi Area recognized for offering specialist training throughout the world. We provide a
-                    diploma as well as certification training courses in the field of Web Designing, Digital Marketing,
-                    along with Web Development. Our training course curriculum is planned to equip you with relevant information
-                    regarding the best and most current developments that are being made use of in the sector.
-                    We provide the expert and also trustworthy IT training courses to corporate and also specific clients.
-                    In this manner, we are taken into consideration as the most effective and even expert to get indulged
-                    in the training sessions to be a professional in the IT area of any kind. We have numerous training courses to provide,
-                    depending upon the requirements and also choices of our clients. Any individual could select the very best training course
-                    based on their requirements and also interests to become a specialized individual in that specific area.</p>
-                <p>All courses offered by us are designed under professional trainers with latest technology adoption
-                    and full fill the goal of our students. During the training our students gets in-depth knowledge
-                    of their selected field. Our training process are flexible and easy which can easily join in both classroom and online mode in regular, weekdays,
-                    weekend mode. Before join any course any one can take demo classes in both online and classroom mode.</p>
-                <p>If you are facing any type of problem with class, we insure you to give refund ! We always takes
-                    a feedback with our trainees after classes. Further they don't love our classes after 3 or 5 ,
-                    we will try to resolve it other wise we refund less amount.</p>
+                <img src="https://jorhatmedicalcollege.in/jmch/images/home_images/img1a.jpg" alt="" />
+                <p>A long felt need of the people of Jorhat was fulfilled with the laying
+                    of the Foundation Stone of the Jorhat Medical College by Hon'ble Prime
+                    Minister of India Dr. Manmohan Singh, in presence of Hon'ble Chief Minister
+                    of Assam Sjt Tarun Gogoi, Hon’ble Union Minister of Law & Justice Shri Veerappa Moily,
+                    Hon’ble Union Minister of Mines and DoNER Shri B.K. Handique, Hon’ble Health Minister
+                    of Assam Dr. Himanta Biswa Sarma, Hon’ble MLA Shri Rana Goswami and a galaxy of distinguished
+                    guests and a huge crowd, on the historic day of 25th August 2008. The Mission took a giant step
+                    when the Hon'ble Chief Minister of Assam Sjt Tarun Gogoi inaugurated the hospital wing of the
+                    Jorhat Medical College on 12th October 2009. The coming up of the 500+ bedded Jorhat Medical College
+                    Hospital equipped with state-of-the-art diagnostic, therapeutic ICU/ICCU and patient care facilities
+                    including a modern integrated residential campus has brought about a sea change in the health care
+                    scenario in the entire district of Jorhat and beyond.
+
+                </p>
+
             </div>
             <h4>Thank you For visit our Page</h4>
 

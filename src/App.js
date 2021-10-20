@@ -4,8 +4,11 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import About from './Component/About/About';
 import Contact from './Component/Contact/Contact';
 import Home from './Component/Home/Home';
-import Courses from './Courses/Courses';
-import Teachers from './Component/Teachers/Teachers';
+import Login from './Login/Login';
+import Register from './Component/Register/Register';
+import Services from './Services/Services';
+import Doctors from './Component/Doctors/Doctors';
+import PrivateRoute from './Component/PrivateRoute/PrivateRoute';
 
 function App() {
   return (
@@ -18,26 +21,33 @@ function App() {
 
           </Route>
 
-          <Route path="/contact">
+          <PrivateRoute path="/contact">
             <Contact></Contact>
 
-          </Route>
+          </PrivateRoute>
           <Route path="/home">
             <Home></Home>
           </Route>
 
 
-          <Route path="/courses">
-            <Courses></Courses>
+          <Route path="/services">
+            <Services></Services>
           </Route>
-          <Route path="/teacher">
-            <Teachers></Teachers>
+          <Route path="/doctors">
+            <Doctors></Doctors>
 
+          </Route>
+          <Route path="/login">
+            <Login></Login>
+          </Route>
+          <Route path="/register">
+            <Register></Register>
           </Route>
           <Route path="/">
             <Home></Home>
 
           </Route>
+
 
         </Switch>
 

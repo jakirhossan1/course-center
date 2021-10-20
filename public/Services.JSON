@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Anesthesiology",
+        "image": "https://www.teamhealth.com/wp-content/uploads/2019/01/TH-11586-December-Blog_Anes.jpg"
+    },
+    {
+        "name": "Dermatology",
+        "image": "https://www.alliancedermatology.com/wp-content/uploads/medical-dermatology-image-original.jpg"
+    },
+    {
+        "name": "ENT",
+        "image": "https://www.hearingdynamicsaz.com/wp-content/uploads/2018/05/Hearing-Dynamics-provides-otoscopic-examinations.jpg"
+    },
+    {
+        "name": "General Medicine",
+        "image": "https://d1aueex22ha5si.cloudfront.net/Conference/1106/Highlight/22-1584681618487.jpg"
+    },
+    {
+        "name": "General Surgery",
+        "image": "https://www.boshospitals.com/uploads/pages/general-surgery.jpg"
+    },
+    {
+        "name": "Obs. & Gyn",
+        "image": "https://rainbowhospitals.org/wp-content/uploads/2020/05/obs-gyn-140342.jpg"
+    },
+    {
+        "name": "Orthopaedics",
+        "image": "https://www1.chester.ac.uk/sites/default/files/styles/hero/public/MSc-Orthopaedics.jpg?itok=KPM8F3J5"
+    },
+    {
+        "name": "Paediatrics",
+        "image": "https://thesavvyimg.co.uk/wp-content/uploads/2020/05/paediatrics-img-plab-mrcpch-768x583.jpg"
+    },
+    {
+        "name": "Paediatrics Surgery",
+        "image": "https://www.chop.edu/sites/default/files/styles/gallery--main/public/breakthroughs-pediatric-surgery-event-6-16x9.jpg?itok=2KWWu9lF"
+    }
+]

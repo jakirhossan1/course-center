@@ -1,5 +1,5 @@
 
-.courses{
+.services{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-gap: 20px;
@@ -7,7 +7,7 @@
 }
 
 
-.course-style{
+.service-style{
    border: 3px solid tomato;
    border-radius: 10px;
    background-color: rgb(222, 243, 222);
@@ -32,5 +32,12 @@
     width: 300px;
     height: 200px;
    }
+   @media only screen and (max-width:750px) {
+    .services{
+        grid-template-columns: repeat(1,1fr);
+    }
+    
+}
+  
     
 
